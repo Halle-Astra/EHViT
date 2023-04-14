@@ -1,0 +1,469 @@
+20230331-075927  Logger Init.INFO INSPECTING JINGDONG, Epoch [0/20], Iter [1/400], loss now is, 0.7041223645210266, average loss is 0.7041223645210266
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [2/400], loss now is, 9.071852684020996, average loss is 4.887987524271011
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [3/400], loss now is, 1.6405898332595825, average loss is 3.805521627267202
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [4/400], loss now is, 0.9268101453781128, average loss is 3.0858437567949295
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [5/400], loss now is, 3.1850826740264893, average loss is 3.1056915402412413
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [6/400], loss now is, 2.368098020553589, average loss is 2.982759286959966
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [7/400], loss now is, 1.5938923358917236, average loss is 2.784349722521646
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [8/400], loss now is, 0.3710559904575348, average loss is 2.482688006013632
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [9/400], loss now is, 0.2657455801963806, average loss is 2.236361069811715
+20230331-080001  Logger Init.20230331-080032  Logger Init.20230331-080110  Logger Init.20230331-080322  Logger Init.20230331-080346  Logger Init.INFO INSPECTING JINGDONG, Epoch [0/20], Iter [1/400], loss now is, 1.2312530279159546, average loss is 1.2312530279159546
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [2/400], loss now is, 5.526701927185059, average loss is 3.3789774775505066
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [3/400], loss now is, 4.1931023597717285, average loss is 3.650352438290914
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [4/400], loss now is, 0.6808611750602722, average loss is 2.9079796224832535
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [5/400], loss now is, 0.41681474447250366, average loss is 2.4097466468811035
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [6/400], loss now is, 1.3205657005310059, average loss is 2.2282164891560874
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [7/400], loss now is, 0.997270941734314, average loss is 2.0523671252386912
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [8/400], loss now is, 0.5142422318458557, average loss is 1.8601015135645866
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [9/400], loss now is, 0.47497040033340454, average loss is 1.7061980565388997
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [10/400], loss now is, 0.47630152106285095, average loss is 1.583208402991295
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [11/400], loss now is, 0.38149821758270264, average loss is 1.4739620224996046
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [12/400], loss now is, 0.2909792363643646, average loss is 1.3753801236550014
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [13/400], loss now is, 0.22539854049682617, average loss is 1.2869200018736033
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [14/400], loss now is, 0.26580479741096497, average loss is 1.2139832015548433
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [15/400], loss now is, 0.39443162083625793, average loss is 1.1593464295069376
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [16/400], loss now is, 0.34775853157043457, average loss is 1.1086221858859062
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [17/400], loss now is, 0.20793037116527557, average loss is 1.0556403144317514
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [18/400], loss now is, 0.22313734889030457, average loss is 1.0093901496794488
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [19/400], loss now is, 0.16225849092006683, average loss is 0.9648042729026393
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [20/400], loss now is, 0.15571291744709015, average loss is 0.9243497051298618
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [21/400], loss now is, 0.17872121930122375, average loss is 0.8888435867570695
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [22/400], loss now is, 0.1798931211233139, average loss is 0.8566185655918989
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [23/400], loss now is, 0.17048126459121704, average loss is 0.8267865090266519
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [24/400], loss now is, 0.1405361145734787, average loss is 0.798192742591103
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [25/400], loss now is, 0.1182471215724945, average loss is 0.7709949177503586
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [26/400], loss now is, 0.1445501148700714, average loss is 0.7469008868703475
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [27/400], loss now is, 0.12127581983804703, average loss is 0.7237295880913734
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [28/400], loss now is, 0.155406191945076, average loss is 0.7034323239432914
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [29/400], loss now is, 0.17046940326690674, average loss is 0.6850542921958298
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [30/400], loss now is, 0.17035625874996185, average loss is 0.6678976910809676
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [31/400], loss now is, 0.23416076600551605, average loss is 0.6539061773688563
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [32/400], loss now is, 0.20028170943260193, average loss is 0.6397304127458483
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [33/400], loss now is, 0.15654809772968292, average loss is 0.6250885244120251
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [34/400], loss now is, 0.1948336958885193, average loss is 0.612433970631922
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [35/400], loss now is, 0.1724899709224701, average loss is 0.5998641420687948
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [36/400], loss now is, 0.1738816648721695, average loss is 0.5880312954799997
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [37/400], loss now is, 0.1735624223947525, average loss is 0.5768294340452632
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [38/400], loss now is, 0.18094490468502045, average loss is 0.5664114201147306
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [39/400], loss now is, 0.1922014206647873, average loss is 0.5568162919237063
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [40/400], loss now is, 0.20021888613700867, average loss is 0.547901356779039
+Fri Mar 31 08:04:05 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   36C    P0    55W / 250W |  16348MiB / 23040MiB |     58%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      6448      C   ...da3\envs\torch\python.exe    16334MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [41/400], loss now is, 0.14713265001773834, average loss is 0.5381265102726657
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [42/400], loss now is, 0.16721780598163605, average loss is 0.5292953506466889
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [43/400], loss now is, 0.21360720694065094, average loss is 0.5219537659093391
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [44/400], loss now is, 0.12936903536319733, average loss is 0.5130313856696541
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [45/400], loss now is, 0.17109139263629913, average loss is 0.5054327191578017
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [46/400], loss now is, 0.15482722222805023, average loss is 0.4978108605288941
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [47/400], loss now is, 0.1405499130487442, average loss is 0.49020956377399727
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [48/400], loss now is, 0.16266286373138428, average loss is 0.4833856741897762
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [49/400], loss now is, 0.11256949603557587, average loss is 0.47581799708458844
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [50/400], loss now is, 0.13780882954597473, average loss is 0.46905781373381616
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [51/400], loss now is, 0.10567273944616318, average loss is 0.46193261619876413
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [52/400], loss now is, 0.17938251793384552, average loss is 0.4564989604629003
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [53/400], loss now is, 0.16223087906837463, average loss is 0.4509467325120602
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [54/400], loss now is, 0.20824399590492249, average loss is 0.4464522373897058
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [55/400], loss now is, 0.18108433485031128, average loss is 0.44162736643444406
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [56/400], loss now is, 0.18043634295463562, average loss is 0.43696324101516176
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [57/400], loss now is, 0.15717008709907532, average loss is 0.43205458919207257
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [58/400], loss now is, 0.14345991611480713, average loss is 0.42707881896660244
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [59/400], loss now is, 0.13746744394302368, average loss is 0.42217015159332144
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [60/400], loss now is, 0.14590053260326385, average loss is 0.41756565794348716
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [61/400], loss now is, 0.1611737161874771, average loss is 0.41336251135732305
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [62/400], loss now is, 0.19393742084503174, average loss is 0.4098233969942216
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [63/400], loss now is, 0.17929771542549133, average loss is 0.40616425919154336
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [64/400], loss now is, 0.15660244226455688, average loss is 0.4022648558020592
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [65/400], loss now is, 0.16558097302913666, average loss is 0.39862356529786036
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [66/400], loss now is, 0.14058853685855865, average loss is 0.39471394365484064
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [67/400], loss now is, 0.13973693549633026, average loss is 0.39090831666740017
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [68/400], loss now is, 0.12693937122821808, average loss is 0.38702642041094165
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [69/400], loss now is, 0.14567680656909943, average loss is 0.38352859992048016
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [70/400], loss now is, 0.13615752756595612, average loss is 0.3799947274582727
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [71/400], loss now is, 0.21407872438430786, average loss is 0.37765788234455483
+20230331-080430  Logger Init.20230331-081528  Logger Init.20230331-082052  Logger Init.20230331-082128  Logger Init.20230331-082359  Logger Init.INFO INSPECTING JINGDONG, Epoch [0/20], Iter [1/400], loss now is, 0.5455612540245056, average loss is 0.5455612540245056
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [2/400], loss now is, 6.089478969573975, average loss is 3.31752011179924
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [3/400], loss now is, 1.3770158290863037, average loss is 2.670685350894928
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [4/400], loss now is, 0.4096854627132416, average loss is 2.1054353788495064
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [5/400], loss now is, 0.78072190284729, average loss is 1.8404926836490632
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [6/400], loss now is, 0.8784793615341187, average loss is 1.680157129963239
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [7/400], loss now is, 0.4276687800884247, average loss is 1.5012302228382655
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [8/400], loss now is, 0.39324304461479187, average loss is 1.3627318255603313
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [9/400], loss now is, 0.2775599956512451, average loss is 1.242157177792655
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [10/400], loss now is, 0.2474718540906906, average loss is 1.1426886454224587
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [11/400], loss now is, 0.26387232542037964, average loss is 1.062796252694997
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [12/400], loss now is, 0.38114047050476074, average loss is 1.005991604179144
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [13/400], loss now is, 0.311454713344574, average loss is 0.9525656894995616
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [14/400], loss now is, 0.19029968976974487, average loss is 0.898118118090289
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [15/400], loss now is, 0.1944766640663147, average loss is 0.8512086878220241
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [16/400], loss now is, 0.14837868511676788, average loss is 0.8072818126529455
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [17/400], loss now is, 0.12348425388336182, average loss is 0.76705842684297
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [18/400], loss now is, 0.17959459125995636, average loss is 0.7344215470883582
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [19/400], loss now is, 0.2150164544582367, average loss is 0.7070844369499307
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [20/400], loss now is, 0.19153638184070587, average loss is 0.6813070341944695
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [21/400], loss now is, 0.13617199659347534, average loss is 0.6553482228801364
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [22/400], loss now is, 0.22464142739772797, average loss is 0.6357706412672997
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [23/400], loss now is, 0.14982961118221283, average loss is 0.614642770394035
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [24/400], loss now is, 0.16291797161102295, average loss is 0.5958209037780762
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [25/400], loss now is, 0.15352855622768402, average loss is 0.5781292098760605
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [26/400], loss now is, 0.1454474776983261, average loss is 0.5614876047923014
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [27/400], loss now is, 0.18924371898174286, average loss is 0.5477007942067252
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [28/400], loss now is, 0.14288213849067688, average loss is 0.5332429850740092
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [29/400], loss now is, 0.17471715807914734, average loss is 0.5208800255224623
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [30/400], loss now is, 0.20546425879001617, average loss is 0.5103661666313807
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [31/400], loss now is, 0.15267422795295715, average loss is 0.49882771699659284
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [32/400], loss now is, 0.13692328333854675, average loss is 0.4875182034447789
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [33/400], loss now is, 0.15913577377796173, average loss is 0.47756722072760266
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [34/400], loss now is, 0.19677719473838806, average loss is 0.46930869055144925
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [35/400], loss now is, 0.13946910202503204, average loss is 0.45988470230783735
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [36/400], loss now is, 0.1375689059495926, average loss is 0.45093148574233055
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [37/400], loss now is, 0.1669781506061554, average loss is 0.4432570712791907
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [38/400], loss now is, 0.20392625033855438, average loss is 0.43695889178075287
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [39/400], loss now is, 0.16966621577739716, average loss is 0.4301052334216925
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [40/400], loss now is, 0.18037547171115875, average loss is 0.42386198937892916
+Fri Mar 31 08:24:05 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   34C    P0    55W / 250W |   1846MiB / 23040MiB |     26%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      1632      C   ...da3\envs\torch\python.exe     1838MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [41/400], loss now is, 0.16868992149829865, average loss is 0.41763828040623086
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [42/400], loss now is, 0.1661026030778885, average loss is 0.411649335707937
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [43/400], loss now is, 0.12797987461090088, average loss is 0.405052371496378
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [44/400], loss now is, 0.10295811295509338, average loss is 0.398186592893167
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [45/400], loss now is, 0.17845125496387482, average loss is 0.39330358538362714
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [46/400], loss now is, 0.20150209963321686, average loss is 0.3891339878673139
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [47/400], loss now is, 0.15041932463645935, average loss is 0.38405495247942334
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [48/400], loss now is, 0.17969655990600586, average loss is 0.37979748596747714
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [49/400], loss now is, 0.10369768738746643, average loss is 0.37416279620053816
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [50/400], loss now is, 0.11281406879425049, average loss is 0.3689358216524124
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [51/400], loss now is, 0.13207395374774933, average loss is 0.3642914713013406
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [52/400], loss now is, 0.12109542638063431, average loss is 0.3596146242836347
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [53/400], loss now is, 0.18317317962646484, average loss is 0.35628554042217864
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [54/400], loss now is, 0.17096704244613647, average loss is 0.35285371638558527
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [55/400], loss now is, 0.16107040643692017, average loss is 0.3493667471137914
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [56/400], loss now is, 0.177801713347435, average loss is 0.346303085796535
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [57/400], loss now is, 0.17490899562835693, average loss is 0.3432961719339354
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [58/400], loss now is, 0.15964937210083008, average loss is 0.34012984779888183
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [59/400], loss now is, 0.17465251684188843, average loss is 0.33732514727418705
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [60/400], loss now is, 0.1800684630870819, average loss is 0.3347042025377353
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [61/400], loss now is, 0.1809333711862564, average loss is 0.3321833692368914
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [62/400], loss now is, 0.14832541346549988, average loss is 0.3292179183373528
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [63/400], loss now is, 0.11339224874973297, average loss is 0.32579211405818426
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [64/400], loss now is, 0.15397129952907562, average loss is 0.3231074138311669
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [65/400], loss now is, 0.1822386234998703, average loss is 0.3209402016722239
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [66/400], loss now is, 0.1785794198513031, average loss is 0.3187832201294827
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [67/400], loss now is, 0.16589142382144928, average loss is 0.31650125302040755
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [68/400], loss now is, 0.15363667905330658, average loss is 0.3141061857561855
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [69/400], loss now is, 0.1524423211812973, average loss is 0.3117632311971291
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [70/400], loss now is, 0.139887735247612, average loss is 0.30930786696927887
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [71/400], loss now is, 0.1481921374797821, average loss is 0.30703863134266624
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [72/400], loss now is, 0.16567949950695038, average loss is 0.3050753100671702
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [73/400], loss now is, 0.1882939338684082, average loss is 0.3034755651877351
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [74/400], loss now is, 0.13953982293605804, average loss is 0.30126021731946917
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [75/400], loss now is, 0.13234995305538177, average loss is 0.2990080804626147
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [76/400], loss now is, 0.19613780081272125, average loss is 0.2976545241514319
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [77/400], loss now is, 0.17818883061408997, average loss is 0.29610302163795993
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [78/400], loss now is, 0.17267514765262604, average loss is 0.2945206129971223
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [79/400], loss now is, 0.15882015228271484, average loss is 0.292802885646307
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [80/400], loss now is, 0.15602853894233704, average loss is 0.2910932063125074
+Fri Mar 31 08:24:09 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   35C    P0    55W / 250W |   1846MiB / 23040MiB |      0%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A      1632      C   ...da3\envs\torch\python.exe     1838MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [81/400], loss now is, 0.1856565773487091, average loss is 0.28979151953517657
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [82/400], loss now is, 0.15566304326057434, average loss is 0.28815580640987654
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [83/400], loss now is, 0.16703826189041138, average loss is 0.2866965588855456
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [84/400], loss now is, 0.11761971563100815, average loss is 0.2846837393229916
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [85/400], loss now is, 0.16630737483501434, average loss is 0.28329107621136834
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [86/400], loss now is, 0.14806948602199554, average loss is 0.2817187321393989
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [87/400], loss now is, 0.13346025347709656, average loss is 0.2800146116950046
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [88/400], loss now is, 0.10966028273105621, average loss is 0.278078767047687
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [89/400], loss now is, 0.15004953742027283, average loss is 0.27664023637771606
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [90/400], loss now is, 0.16491304337978363, average loss is 0.2753988231221835
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [91/400], loss now is, 0.18948668241500854, average loss is 0.27445473366386286
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [92/400], loss now is, 0.17880624532699585, average loss is 0.2734150761819404
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [93/400], loss now is, 0.16148938238620758, average loss is 0.2722115740981153
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [94/400], loss now is, 0.17374885082244873, average loss is 0.27116409831858695
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [95/400], loss now is, 0.16366565227508545, average loss is 0.2700325357286554
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [96/400], loss now is, 0.1620665043592453, average loss is 0.2689078895685573
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [97/400], loss now is, 0.14485585689544678, average loss is 0.26762900263378303
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [98/400], loss now is, 0.09624314308166504, average loss is 0.2658801673322308
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [99/400], loss now is, 0.14107593894004822, average loss is 0.26461951856059257
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [100/400], loss now is, 0.15967407822608948, average loss is 0.26357006415724754
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [101/400], loss now is, 0.17591236531734467, average loss is 0.26270216614893166
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [102/400], loss now is, 0.16147026419639587, average loss is 0.26170969652194603
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [103/400], loss now is, 0.14948643743991852, average loss is 0.26062015031726615
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [104/400], loss now is, 0.13772167265415192, average loss is 0.2594384341858901
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [105/400], loss now is, 0.16006958484649658, average loss is 0.2584920641921815
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [106/400], loss now is, 0.17549139261245728, average loss is 0.25770903898859926
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [107/400], loss now is, 0.17607741057872772, average loss is 0.2569461265735537
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [108/400], loss now is, 0.13140477240085602, average loss is 0.2557837066275102
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [109/400], loss now is, 0.16940151154994965, average loss is 0.2549912094249638
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [110/400], loss now is, 0.1014075055718422, average loss is 0.25359499393539
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [111/400], loss now is, 0.1704189032316208, average loss is 0.25284565978490553
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [112/400], loss now is, 0.1460777074098587, average loss is 0.2518923744958426
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [113/400], loss now is, 0.18153245747089386, average loss is 0.2512697203628785
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [114/400], loss now is, 0.16089984774589539, average loss is 0.25047700218202773
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [115/400], loss now is, 0.1521884948015213, average loss is 0.24962231950915378
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [116/400], loss now is, 0.16048260033130646, average loss is 0.24885387365417233
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [117/400], loss now is, 0.1788707971572876, average loss is 0.24825572770120752
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [118/400], loss now is, 0.17530620098114014, average loss is 0.24763751137307136
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [119/400], loss now is, 0.17834770679473877, average loss is 0.2470552441077072
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [120/400], loss now is, 0.18081510066986084, average loss is 0.2465032429123918
+20230331-082426  Logger Init.INFO INSPECTING JINGDONG, Epoch [0/20], Iter [1/200], loss now is, 0.42298653721809387, average loss is 0.42298653721809387
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [2/200], loss now is, 9.116090774536133, average loss is 4.769538655877113
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [3/200], loss now is, 2.361589193344116, average loss is 3.966888835032781
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [4/200], loss now is, 1.6523853540420532, average loss is 3.388262964785099
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [5/200], loss now is, 1.4131072759628296, average loss is 2.993231827020645
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [6/200], loss now is, 1.0932903289794922, average loss is 2.676574910680453
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [7/200], loss now is, 0.49936211109161377, average loss is 2.3655445107391904
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [8/200], loss now is, 0.37032392621040344, average loss is 2.116141937673092
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [9/200], loss now is, 0.39652061462402344, average loss is 1.925072901778751
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [10/200], loss now is, 0.4537501037120819, average loss is 1.7779406219720841
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [11/200], loss now is, 0.43774327635765076, average loss is 1.6561044996434993
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [12/200], loss now is, 0.36899349093437195, average loss is 1.5488452489177387
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [13/200], loss now is, 0.3009916841983795, average loss is 1.4528565131700957
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [14/200], loss now is, 0.20931456983089447, average loss is 1.364032088645867
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [15/200], loss now is, 0.2528732717037201, average loss is 1.2899548341830571
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [16/200], loss now is, 0.2163170725107193, average loss is 1.222852474078536
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [17/200], loss now is, 0.18115942180156708, average loss is 1.1615764121798908
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [18/200], loss now is, 0.17138226330280304, average loss is 1.1065656261311636
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [19/200], loss now is, 0.22203446924686432, average loss is 1.0600113547162007
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [20/200], loss now is, 0.1643110066652298, average loss is 1.015226337313652
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [21/200], loss now is, 0.17583957314491272, average loss is 0.9752555390199026
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [22/200], loss now is, 0.1618359386920929, average loss is 0.938281920823184
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [23/200], loss now is, 0.1890714317560196, average loss is 0.9057075517333072
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [24/200], loss now is, 0.1997246891260147, average loss is 0.87629159912467
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [25/200], loss now is, 0.20986512303352356, average loss is 0.8496345400810241
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [26/200], loss now is, 0.19755475223064423, average loss is 0.8245545482406249
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [27/200], loss now is, 0.21276222169399261, average loss is 0.8018955731833423
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [28/200], loss now is, 0.18270476162433624, average loss is 0.7797816156276635
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [29/200], loss now is, 0.172675222158432, average loss is 0.7588469124045866
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [30/200], loss now is, 0.18216031789779663, average loss is 0.7396240259210268
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [31/200], loss now is, 0.14266161620616913, average loss is 0.7203671739947412
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [32/200], loss now is, 0.16707006096839905, average loss is 0.7030766392126679
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [33/200], loss now is, 0.20084790885448456, average loss is 0.6878575867775715
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [34/200], loss now is, 0.1624513566493988, average loss is 0.672404462362037
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [35/200], loss now is, 0.1589502990245819, average loss is 0.6577343434095383
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [36/200], loss now is, 0.19044038653373718, average loss is 0.6447539557185438
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [37/200], loss now is, 0.19293135404586792, average loss is 0.6325425340517147
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [38/200], loss now is, 0.17122822999954224, average loss is 0.6204026839450786
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [39/200], loss now is, 0.1559644639492035, average loss is 0.6084940116374921
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [40/200], loss now is, 0.1584387868642807, average loss is 0.5972426310181618
+Fri Mar 31 08:24:35 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   37C    P0    55W / 250W |   2845MiB / 23040MiB |      7%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A     12036      C   ...da3\envs\torch\python.exe     2836MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [41/200], loss now is, 0.16498158872127533, average loss is 0.5866996787670182
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [42/200], loss now is, 0.15044784545898438, average loss is 0.5763127303549221
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [43/200], loss now is, 0.18123997747898102, average loss is 0.5671249919159468
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [44/200], loss now is, 0.1512899249792099, average loss is 0.5576741949401118
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [45/200], loss now is, 0.14352931082248688, average loss is 0.5484709752930536
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [46/200], loss now is, 0.1466115266084671, average loss is 0.5397349003216495
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [47/200], loss now is, 0.11072328686714172, average loss is 0.5306069936524046
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [48/200], loss now is, 0.16898150742053986, average loss is 0.5230731293559074
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [49/200], loss now is, 0.17437000572681427, average loss is 0.5159567390777626
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [50/200], loss now is, 0.15056635439395905, average loss is 0.5086489313840866
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [51/200], loss now is, 0.16279034316539764, average loss is 0.5018673904386222
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [52/200], loss now is, 0.14875580370426178, average loss is 0.4950767830014229
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [53/200], loss now is, 0.16155540943145752, average loss is 0.4887839268963292
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [54/200], loss now is, 0.13272252678871155, average loss is 0.48219019726470663
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [55/200], loss now is, 0.19462934136390686, average loss is 0.4769618180665103
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [56/200], loss now is, 0.1888090968132019, average loss is 0.47181623375841547
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [57/200], loss now is, 0.13913190364837646, average loss is 0.46597966656350254
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [58/200], loss now is, 0.14801959693431854, average loss is 0.4604975963974821
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [59/200], loss now is, 0.13462123274803162, average loss is 0.4549742682000338
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [60/200], loss now is, 0.1484847217798233, average loss is 0.4498661090930303
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [61/200], loss now is, 0.15492986142635345, average loss is 0.4450310886394782
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [62/200], loss now is, 0.1504906862974167, average loss is 0.4402804369887998
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [63/200], loss now is, 0.15636099874973297, average loss is 0.43577377923897337
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [64/200], loss now is, 0.17703117430210114, average loss is 0.4317309260368347
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [65/200], loss now is, 0.16379357874393463, average loss is 0.42760881300155934
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [66/200], loss now is, 0.19821208715438843, average loss is 0.42413310503417795
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [67/200], loss now is, 0.1582316756248474, average loss is 0.4201644269832924
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [68/200], loss now is, 0.16707338392734528, average loss is 0.41644249987952847
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [69/200], loss now is, 0.15253214538097382, average loss is 0.4126177121331726
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [70/200], loss now is, 0.15074306726455688, average loss is 0.40887664577790667
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [71/200], loss now is, 0.14645858108997345, average loss is 0.405180616697795
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [72/200], loss now is, 0.1673210710287094, average loss is 0.40187701189683545
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [73/200], loss now is, 0.1720750480890274, average loss is 0.39872903978987917
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [74/200], loss now is, 0.1316109299659729, average loss is 0.3951193356030696
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [75/200], loss now is, 0.16318883001804352, average loss is 0.3920269288619359
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [76/200], loss now is, 0.1704421192407608, average loss is 0.3891113392616573
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [77/200], loss now is, 0.16983336210250854, average loss is 0.3862635733245255
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [78/200], loss now is, 0.16039510071277618, average loss is 0.3833678236756569
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [79/200], loss now is, 0.15011468529701233, average loss is 0.3804152523037754
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [80/200], loss now is, 0.1539565920829773, average loss is 0.37758451905101537
+Fri Mar 31 08:24:42 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   38C    P0    55W / 250W |   2845MiB / 23040MiB |     51%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A     12036      C   ...da3\envs\torch\python.exe     2836MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [81/200], loss now is, 0.1294691562652588, average loss is 0.3745213664240307
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [82/200], loss now is, 0.14484554529190063, average loss is 0.37172044177607794
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [83/200], loss now is, 0.14924561977386475, average loss is 0.3690400222338826
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [84/200], loss now is, 0.15208742022514343, average loss is 0.36645725316234995
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [85/200], loss now is, 0.11946569383144379, average loss is 0.36355147011139816
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [86/200], loss now is, 0.13613200187683105, average loss is 0.360907057690066
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [87/200], loss now is, 0.19122503697872162, average loss is 0.3589566896359126
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [88/200], loss now is, 0.16010650992393494, average loss is 0.3566970285028219
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [89/200], loss now is, 0.18790677189826965, average loss is 0.35480050876569214
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [90/200], loss now is, 0.17082272469997406, average loss is 0.3527563111649619
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [91/200], loss now is, 0.16644296050071716, average loss is 0.3507089117071131
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [92/200], loss now is, 0.15346650779247284, average loss is 0.3485649725341279
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [93/200], loss now is, 0.15453894436359406, average loss is 0.3464786711559501
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [94/200], loss now is, 0.1724005490541458, average loss is 0.34462677623997345
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [95/200], loss now is, 0.17090319097042084, average loss is 0.34279810692134655
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [96/200], loss now is, 0.16365188360214233, average loss is 0.3409320004284382
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [97/200], loss now is, 0.1491817831993103, average loss is 0.3389551940652513
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [98/200], loss now is, 0.16551528871059418, average loss is 0.3371853991126528
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [99/200], loss now is, 0.16868850588798523, average loss is 0.3354834102922016
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [100/200], loss now is, 0.14908193051815033, average loss is 0.33361939549446107
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [101/200], loss now is, 0.17176412045955658, average loss is 0.33201686801886793
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [102/200], loss now is, 0.13983580470085144, average loss is 0.33013273994712267
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [103/200], loss now is, 0.15836861729621887, average loss is 0.3284651271058518
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [104/200], loss now is, 0.15227584540843964, average loss is 0.3267709993972228
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [105/200], loss now is, 0.14778625965118408, average loss is 0.32506638282821293
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [106/200], loss now is, 0.17489974200725555, average loss is 0.3236497164053737
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [107/200], loss now is, 0.16572169959545135, average loss is 0.3221737536314492
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [108/200], loss now is, 0.1760539561510086, average loss is 0.32082079254366735
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [109/200], loss now is, 0.1530759036540985, average loss is 0.31928184860890063
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [110/200], loss now is, 0.12422029674053192, average loss is 0.31750856177373366
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [111/200], loss now is, 0.15941941738128662, average loss is 0.3160843352476756
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [112/200], loss now is, 0.17851831018924713, average loss is 0.31485606716679676
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [113/200], loss now is, 0.18366359174251556, average loss is 0.31369507180905976
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [114/200], loss now is, 0.15187984704971313, average loss is 0.3122756400129251
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [115/200], loss now is, 0.16529446840286255, average loss is 0.3109975428684898
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [116/200], loss now is, 0.13387854397296906, average loss is 0.3094706549469767
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [117/200], loss now is, 0.14155147969722748, average loss is 0.30803544832091045
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [118/200], loss now is, 0.155496746301651, average loss is 0.30674274745634045
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [119/200], loss now is, 0.12912343442440033, average loss is 0.3052501481871645
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [120/200], loss now is, 0.1339539736509323, average loss is 0.30382268006602925
+Fri Mar 31 08:24:49 2023       
++-----------------------------------------------------------------------------+
+| NVIDIA-SMI 528.33       Driver Version: 528.33       CUDA Version: 12.0     |
+|-------------------------------+----------------------+----------------------+
+| GPU  Name            TCC/WDDM | Bus-Id        Disp.A | Volatile Uncorr. ECC |
+| Fan  Temp  Perf  Pwr:Usage/Cap|         Memory-Usage | GPU-Util  Compute M. |
+|                               |                      |               MIG M. |
+|===============================+======================+======================|
+|   0  Tesla P40          TCC   | 00000000:01:00.0 Off |                    0 |
+| N/A   39C    P0    55W / 250W |   2845MiB / 23040MiB |      4%      Default |
+|                               |                      |                  N/A |
++-------------------------------+----------------------+----------------------+
+                                                                               
++-----------------------------------------------------------------------------+
+| Processes:                                                                  |
+|  GPU   GI   CI        PID   Type   Process name                  GPU Memory |
+|        ID   ID                                                   Usage      |
+|=============================================================================|
+|    0   N/A  N/A     12036      C   ...da3\envs\torch\python.exe     2836MiB |
++-----------------------------------------------------------------------------+
+
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [121/200], loss now is, 0.14321205019950867, average loss is 0.30249531948861996
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [122/200], loss now is, 0.1452343612909317, average loss is 0.30120629524109793
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [123/200], loss now is, 0.1304364800453186, average loss is 0.29981792275983143
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [124/200], loss now is, 0.1787964403629303, average loss is 0.29884194306308226
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [125/200], loss now is, 0.14754149317741394, average loss is 0.2976315394639969
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [126/200], loss now is, 0.13552971184253693, average loss is 0.2963450170225567
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [127/200], loss now is, 0.14731884002685547, average loss is 0.29517158255802367
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [128/200], loss now is, 0.15008710324764252, average loss is 0.2940381100634113
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [129/200], loss now is, 0.16062484681606293, average loss is 0.2930038987204086
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [130/200], loss now is, 0.15566883981227875, average loss is 0.2919474751903461
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [131/200], loss now is, 0.16948777437210083, average loss is 0.2910126683138709
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [132/200], loss now is, 0.18476206064224243, average loss is 0.2902077394678737
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [133/200], loss now is, 0.127448171377182, average loss is 0.2889839833168159
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [134/200], loss now is, 0.17998230457305908, average loss is 0.2881705379530565
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [135/200], loss now is, 0.1727473884820938, average loss is 0.287315551660679
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [136/200], loss now is, 0.1684533804655075, average loss is 0.28644156510777335
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [137/200], loss now is, 0.1741635501384735, average loss is 0.2856220175532529
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [138/200], loss now is, 0.12913326919078827, average loss is 0.28448804111584375
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [139/200], loss now is, 0.18838676810264587, average loss is 0.2837966650510006
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [140/200], loss now is, 0.18415892124176025, average loss is 0.2830849668809346
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [141/200], loss now is, 0.14916950464248657, average loss is 0.28213521182959805
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [142/200], loss now is, 0.17596592009067535, average loss is 0.28138754076101413
+INFO INSPECTING JINGDONG, Epoch [0/20], Iter [143/200], loss now is, 0.17172203958034515, average loss is 0.2806206491443661
